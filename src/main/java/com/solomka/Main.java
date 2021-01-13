@@ -1,7 +1,6 @@
 package com.solomka;
 
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
-import org.springframework.scheduling.annotation.EnableScheduling;
 
 import java.util.Date;
 
